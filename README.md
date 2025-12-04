@@ -36,7 +36,13 @@ Air pollution is a growing concern affecting health worldwide. This project prov
 - Interactive map showing AQI measurement points  
 - Forecasting of AQI and weather  
 
-Designed for **hackathons, research, or educational purposes**.  
+Designed for **hackathons, research, or educational purposes**. 
+
+Dashborad -->
+<img width="1485" height="744" alt="main_dashborad" src="https://github.com/user-attachments/assets/cc630705-4730-401f-88b6-2e1bc62ba646" />
+
+<img width="1489" height="737" alt="forcasting" src="https://github.com/user-attachments/assets/e08e55e2-001d-496a-b26b-a95698a801d5" />
+
 
 ---
 
